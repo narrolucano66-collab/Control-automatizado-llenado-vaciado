@@ -11,15 +11,20 @@
 
 ---
 ## POGRAMACION SENSOR ANALOGICO
-<img width="943" height="273" alt="image" src="https://github.com/user-attachments/assets/870bbf7c-dbd6-444a-8279-37726228c479" />
+
+![1234](https://github.com/user-attachments/assets/bff762df-3025-4635-9904-25805e9f9130)
+
 
 ---
 ## SIMULACION HMI DE TIA PORTAL
-<img width="1167" height="903" alt="image" src="https://github.com/user-attachments/assets/e9d214bd-8de4-455b-b5f8-9acdc5ccfdb0" />
+
+![12345](https://github.com/user-attachments/assets/6fee6a10-c8bb-4ed1-a07b-db4762dd01fb)
+
 
 ---
 ## PROYECTO FISICO SIMULADO
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/687c3180-9d55-4fe3-9976-de86d256ee24" />
+![123456](https://github.com/user-attachments/assets/d6ed8fa4-355e-4a5b-b6b1-e1a9877c18d5)
+
 
 ---
 
