@@ -1,2 +1,110 @@
-# Control-automatizado-llenado-vaciado
-El sistema integra sensores de nivel mínimo y máximo, una válvula de entrada controlada por PLC y una interfaz de monitoreo. La lógica abre la válvula al nivel bajo y la cierra al nivel alto, garantizando un proceso continuo, seguro y confiable. Demuestra la importancia de la automatización para precisión y productividad.
+# CONTROL AUTOMATIZADO LLENADO Y VACIO DE UN TANQUE INDUSTRIAL 
+---
+## PLC S7-1200 EN TIA PORTAL
+<img width="1588" height="835" alt="image" src="https://github.com/user-attachments/assets/d29d207b-c086-469e-8f23-9fad0a9354d3" />
+## VARIABLES EN LADDER 
+<img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/d62779c0-0f09-48b4-88ac-c3b016bb6b6d" />
+## POGRAMACION SENSOR ANALOGICO
+<img width="943" height="273" alt="image" src="https://github.com/user-attachments/assets/870bbf7c-dbd6-444a-8279-37726228c479" />
+## SIMULACION HMI DE TIA PORTAL
+<img width="1167" height="903" alt="image" src="https://github.com/user-attachments/assets/e9d214bd-8de4-455b-b5f8-9acdc5ccfdb0" />
+## PROYECTO FISICO SIMULADO
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/687c3180-9d55-4fe3-9976-de86d256ee24" />
+
+## 📌 Descripción  
+Este proyecto tiene como objetivo **diseñar e implementar un sistema automático de llenado y vaciado de un tanque** utilizando un **PLC Siemens S7-1200** programado en **TIA Portal V18**. El sistema garantiza un control seguro, continuo y confiable del nivel de líquidos mediante sensores de proximidad y actuadores.  
+
+Se busca demostrar la importancia de la **automatización en procesos industriales**, mejorando la precisión, reduciendo el error humano y aumentando la productividad.  
+
+---
+
+## 🎯 Objetivos  
+
+### Objetivo General  
+Diseñar e implementar un sistema automatizado para el control de llenado y vaciado de botellas/tanque utilizando una bomba de agua, una válvula electromecánica y sensores de proximidad.  
+
+### Objetivos Específicos  
+- Seleccionar y dimensionar componentes principales: bomba, válvula y sensores (digitales y analógicos).  
+- Programar la lógica de control en **Ladder (KOP)** mediante **TIA Portal**.  
+- Integrar sensores de nivel mínimo, intermedio y máximo para garantizar precisión.  
+- Validar el funcionamiento con pruebas de llenado/vaciado.  
+- Proponer mejoras como monitoreo remoto e indicadores visuales.  
+
+---
+
+## 📐 Alcance  
+- Control automático del llenado y vaciado del tanque.  
+- Supervisión en tiempo real mediante **HMI**.  
+- Optimización de recursos y reducción de la intervención humana.  
+- Prototipo adaptable para aplicaciones industriales reales.  
+
+---
+
+## ✅ Viabilidad  
+El sistema es técnica y económicamente viable ya que:  
+- Utiliza componentes de bajo costo y fácil acceso (bomba, sensores, válvula, relé 24VDC).  
+- El software TIA Portal V18 y el PLC S7-1200 permiten una programación estándar.  
+- Es escalable a sistemas más grandes (SCADA, monitoreo remoto).  
+
+---
+
+## 📚 Marco Teórico  
+El proyecto se basa en:  
+- **Sensores digitales y analógicos de proximidad**.  
+- **PLC Siemens S7-1200** y **TIA Portal V18**.  
+- **Bomba de agua** como actuador de llenado.  
+- **HMI** para monitoreo y control manual.  
+- **Lenguaje Ladder (KOP)** para la lógica.  
+- **Módulo relé 24VDC** para control de actuadores.  
+
+---
+
+## 🔧 Metodología  
+1. **Diseño del sistema**: Diagramas eléctricos, conexión de sensores y actuadores, pantallas gráficas en HMI.  
+2. **Programación**: Implementación de la lógica de control en Ladder con TIA Portal.  
+3. **Pruebas funcionales**: Validación del encendido/apagado de bomba, apertura/cierre de válvula y detección de niveles.  
+4. **Mantenimiento preventivo**: Limpieza de sensores y calibración periódica.  
+
+---
+
+## 📊 Resultados  
+- El sistema respondió adecuadamente a las condiciones programadas.  
+- La bomba y válvula se activaron/desactivaron correctamente según los niveles.  
+- La HMI mostró información en tiempo real.  
+- El sistema reaccionó de forma segura ante fallos simulados.  
+
+---
+
+## 🚀 Propuestas de Mejora  
+- Integración de **SCADA** o monitoreo remoto vía Ethernet/WiFi.  
+- Registro de datos históricos en nube o memoria local.  
+- Alarmas sonoras y visuales inmediatas.  
+- Control de caudal mediante sensores de flujo.  
+- Protección eléctrica avanzada (UPS, protectores de sobretensión).  
+
+---
+
+## 📈 Conclusiones  
+- El uso combinado de sensores digitales y analógicos garantiza precisión en el control de nivel.  
+- El PLC S7-1200 y Ladder permiten una automatización segura y flexible.  
+- La integración con HMI mejora la interacción usuario-máquina.  
+- La maqueta desarrollada es una base práctica para futuras aplicaciones industriales a mayor escala.  
+
+---
+
+## 📹 Videos de Funcionamiento  
+- [Video de maqueta y pruebas](https://drive.google.com/drive/folders/11HaQ3D1zVJ3QTTy-Rj2fKdp2AqiyLbdf?usp=drive_link)  
+- [Explicación del sistema](https://drive.google.com/file/d/1GHnvJ_Ii9Ub9XjGsWD6JKKnPPwl8_vHZ/view?usp=sharing)  
+- [Video de error y solución](https://drive.google.com/file/d/1fyGabmvj-G72-1ds-rNKXXg0Yg5BLIjw/view?usp=sharing)  
+
+---
+
+## 👨‍💻 Autores  
+- Jesús Zeballos Mendoza  
+- Aldair Rodríguez Salazar  
+- Pedro Torres Miñano  
+- César Alexander Chávez Santisteban  
+- Diego Narro Lucano  
+
+**Docente:** Jean Marco Grijalba Mauricio  
+**Facultad de Ingeniería – Trujillo, Perú – 2025** 
