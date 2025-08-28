@@ -2,12 +2,16 @@
 ---
 ## PLC S7-1200 EN TIA PORTAL
 <img width="1588" height="835" alt="image" src="https://github.com/user-attachments/assets/d29d207b-c086-469e-8f23-9fad0a9354d3" />
+
 ## VARIABLES EN LADDER 
-<img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/d62779c0-0f09-48b4-88ac-c3b016bb6b6d" />
+<img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/d62779c0-0f09-48b4-88ac-c3b016bb6b6d" />+
+
 ## POGRAMACION SENSOR ANALOGICO
 <img width="943" height="273" alt="image" src="https://github.com/user-attachments/assets/870bbf7c-dbd6-444a-8279-37726228c479" />
+
 ## SIMULACION HMI DE TIA PORTAL
 <img width="1167" height="903" alt="image" src="https://github.com/user-attachments/assets/e9d214bd-8de4-455b-b5f8-9acdc5ccfdb0" />
+
 ## PROYECTO FISICO SIMULADO
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/687c3180-9d55-4fe3-9976-de86d256ee24" />
 
