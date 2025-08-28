@@ -3,10 +3,11 @@
 ## PLC S7-1200 EN TIA PORTAL
 
 <img width="1588" height="835" alt="image" src="https://github.com/user-attachments/assets/d29d207b-c086-469e-8f23-9fad0a9354d3" />
+
 ---
 ## VARIABLES EN LADDER 
 
-<img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/4e2129e4-79b3-4ef7-8878-c8c4991e322e" />
+![123](https://github.com/user-attachments/assets/06d2a889-ed20-4928-9fc5-4748f575fb5f)
 
 ---
 ## POGRAMACION SENSOR ANALOGICO
